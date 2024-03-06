@@ -35,7 +35,7 @@ My first game for the PS4 was The Crew. I really enjoyed it and still remember m
 - __Buy the majority of your games physicaly__, ideally after consulting my database (still WIP!) or even better, visiting [DoesItPlay](https://www.doesitplay.org/). They have a much bigger list of video games from many platforms and were the main motivation for me to create my own database.
 - __Spread awarness__
 - __Tell the publishers__ why you care, "vote with your wallet"
-- If you're on PC, __consider buying digital games that are DRM-Free__ and grant you full ownership over the purchased copy. See [DRM-free stores](https://github.com/C-3PK/IAP/tree/main?tab=readme-ov-file#digital-drm-free-stores)
+- If you're on PC, __consider buying digital games that are DRM-Free__ and grant you full ownership over the purchased copy. See [DRM-free stores](https://github.com/C-3PK/IAP?tab=readme-ov-file#digital-drm-free-stores)
 
 ## Additional recources
 - [DoesItPlay](https://www.doesitplay.org/) - one of the most important websites to find out if the game you're interested in is playable without the internet connection or patches

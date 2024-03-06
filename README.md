@@ -52,7 +52,7 @@ My first game for the PS4 was The Crew. I really enjoyed it and still remember m
 - [N-GAME ARTS](https://www.youtube.com/@n-gamearts1731)
 - [RETRO GAME FUTURE](https://www.youtube.com/@RETROGAMEFUTURE) _(French)_
 
-#### Other great channels often mentioning video game preservation_
+#### Other great channels often mentioning video game preservation
 - [Modern Vintage Gamer](https://www.youtube.com/@ModernVintageGamer)
 - [orbalology](https://www.youtube.com/@orbalology)
 - [SomeOrdinaryGamers](https://www.youtube.com/@SomeOrdinaryGamers)

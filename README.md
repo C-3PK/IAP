@@ -2,6 +2,8 @@
 
 Database created to share my results playing and testing physical games on different consoles.
 
+#[Test Results](https://github.com/C-3PK/IAP/blob/main/RESULTS.md)
+
 ## Why did I create the database?
 I strongly believe in video game preservation and I think that people today and also in the future should be able to enjoy the games that were created even decades ago. All games are worth preserving and have an important place in the history.
 

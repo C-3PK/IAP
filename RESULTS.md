@@ -1,0 +1,3 @@
+|          Game          |    Version    |    Region    |    Platform    |    Tested on    |    Offline Play    |    Download required    |
+|:----------------------:|:-------------:|:------------:|:--------------:|:---------------:|:------------------:|:-----------------------:|
+| [Star Wars Battlefront (2015)](https://github.com/C-3PK/IAP/blob/main/PS4/PS4_2015_Star-Wars-Battlefront.md)| Standard | PEGI | PS4 | Base PS4 | Yes | No |
